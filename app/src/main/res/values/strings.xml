@@ -303,7 +303,7 @@
     <!-- Download status-->
     <!-- File download status is paused -->
     <string name="pause">paused</string>
-    <!-- File download status is pending -->
+    <!-- File download status is pending --> 
     <string name="pending">Pending</string>
     <!-- File download status is running -->
     <string name="running">downloading</string>
